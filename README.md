@@ -61,3 +61,7 @@ actor hesap_makinesi
     hucre := 0;
   };
 };
+
+```
+## Motoko Dili
+Motoko, Internet Computer'ın yazılım geliştirme için özel olarak tasarlanmış bir programlama dilidir. Bu dil, Internet Computer'ın ağ üzerinde dağıtılmış uygulamaları çalıştırmak için kullanılan bir akıllı sözleşme dili olarak hizmet verir. Motoko, actor tabanlı bir model kullanır ve asenkron işlemleri destekler. Bu nedenle, Internet Computer üzerinde çalışan uygulamaları geliştirmek için yaygın olarak kullanılan bir dildir. Yukarıdaki kod, Motoko dilinde yazılmış bir hesap makinesi akıllı sözleşmesi örneğidir.
